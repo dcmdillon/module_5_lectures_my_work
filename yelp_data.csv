@@ -1,217 +1,241 @@
-Restore Public House,1,4.5 star rating,1810 State St,17,American (Traditional)
-The Waterfront Restaurant & Tavern,2,4.5 star rating,328 Front St S,226,American (New);Seafood;Steakhouses
-Lovechild Restaurant,3,4.5 star rating,300 3rd St S,109,American (New)
-Buzzard Billy’s,4,4 star rating,222 Pearl St,275,American (Traditional);Cajun/Creole
+Name,Rank,Rating,Address,Review Count,Category
+The Waterfront Restaurant & Tavern,1,4.5 star rating,328 Front St S,226,American (New);Seafood;Steakhouses
+Restore Public House,2,4.5 star rating,1810 State St,17,American (Traditional)
+Buzzard Billy’s,3,4 star rating,222 Pearl St,275,American (Traditional);Cajun/Creole
+Lovechild Restaurant,4,4.5 star rating,300 3rd St S,109,American (New)
 The Charmant,5,4.5 star rating,101 State St,149,French;Cocktail Bars
 The Freighthouse Restaurant,6,4 star rating,107 Vine St,125,Seafood;Steakhouses;Desserts
 Howie’s on La Crosse,7,4 star rating,1128 La Crosse St,57,American (New);Pubs
-Schuby’s Neighborhood Butcher,8,4.5 star rating,321 State St,17,Butcher;Delis;Caterers
-Piggy’s Restaurant,9,4 star rating,501 Front St S,131,Steakhouses;Seafood;Sandwiches
-The Crow,10,3.5 star rating,100 3rd St S,154,American (Traditional);GastropubsRiver Rats Bar and Grill,11,4.5 star rating,1311 La Crescent Pl,28,American (New);Burgers;Cocktail Bars
-Digger’s Sting Restaurant,12,4 star rating,122 3rd St N,62,American (New);Steakhouses
-Pickerman’s Soup & Sandwiches,13,4.5 star rating,327 Jay St,57,Sandwiches;Soup
-Burritos House,14,4.5 star rating,1205 La Crosse St,30,Mexican
-Greengrass Cafe,15,4 star rating,1904 Campbell Rd,96,Breakfast & Brunch;Bars
-4 Sisters Wine Bar and Tapas,16,3.5 star rating,100 Harborview Plz,111,Wine Bars;Tapas/Small Plates;Tapas Bars
-Le Chateau,17,4.5 star rating,410 Cass St,51,French;Wine Bars;Cocktail Bars
-The Root Note,18,4.5 star rating,115 4th St S,80,Music Venues;Coffee & Tea;Creperies
-Uno Venti Pizzeria,19,4 star rating,120 King St,17,Pizza;Italian;Beer Bar
-Hungry Peddler,20,4 star rating,3429 Mormon Coulee Rd,64,American (Traditional);Steakhouses;SeafoodIguana’s Mexican Street Café,21,4 star rating,1800 State St,71,Mexican
-Red Pines Bar & Grill,22,4.5 star rating,W7305 County Rd Z,88,American (Traditional);Seafood
-Milwaukee Burger Company,23,3.5 star rating,3039 Medco Ct,23,Burgers;Sports Bars;Beer Bar
-Hmong’s Golden Egg Roll,24,4 star rating,901 State St,69,Laotian;Vietnamese;Thai
-Five Star Eggrolls,25,3.5 star rating,1203 La Crosse St,9,Thai;Laotian;Chinese
-Señor Villa,26,4 star rating,325 West Ave N,69,Mexican
-Rudy’s Drive-In,27,4 star rating,1004 La Crosse St,44,American (New)
-Recovery Room,28,3.5 star rating,901 7th St S,14,Sports Bars;American (Traditional)
-Rosie’s Cafe,29,4.5 star rating,2225 16th St S,56,Diners;Cafes;American (Traditional)
-Big Mama’s Gyros,30,5 star rating,Dave's Guitar Shop Parking Lot,9,Greek;Street VendorsCiatti’s Italian Grill,31,4.5 star rating,2846 Midwest Dr,51,Seafood;Steakhouses;Italian
-Huck Finn’s On the Water,32,3.5 star rating,129 Marina Dr,53,American (Traditional);Music Venues;Chicken Wings
-People’s Food Co-op,33,4.5 star rating,315 5th Ave S,31,Grocery;Delis
-Fayze’s,34,3.5 star rating,135 S 4th St,129,Bakeries;American (Traditional);Pubs
-Uptowne Cafe & Bakery,35,4 star rating,1217 Caledonia St,45,Bakeries;Cafes;Breakfast & Brunch
-Timmers 10 Mile Pub,36,4.5 star rating,W4516 Eddie Ave,12,Pubs;American (Traditional)
-Kaddy’s Kafe,37,4.5 star rating,236 E Main St,25,Breakfast & Brunch;Cafes
-New Taste of India,38,4 star rating,1812 Jackson St,110,Indian
-The Breakfast Club and Pub,39,3.5 star rating,214 Main St,110,American (Traditional);Breakfast & Brunch;Pubs
-Press Break,40,4.5 star rating,146 Rose St,14,Sandwiches;Hot Dogs;Breakfast & BrunchSchmidty’s Bar & Restaurant,41,4 star rating,3119 State Rd,19,American (Traditional)
-Taste of Thai,42,4.5 star rating,205 S Holmen Dr,40,Thai
-David Reay’s Modern Diner + Tavern,43,3.5 star rating,214 Main St,96,Diners;Bars
-Pogreba Restaurant,44,4 star rating,1232 Avon St,48,American (Traditional);Seafood;Steakhouses
-Il Luigi Italian Cuisine,45,4.5 star rating,235 Sand Lake Rd,3,Italian;Wine Bars
-Free Range Exchange,46,5 star rating,46 Main St,5,Breakfast & Brunch;Sandwiches;Coffee & Tea
-Big Al’s Pizza,47,3.5 star rating,115 3rd St,70,Pizza
-Big Boar Barbecue & Catering,48,4.5 star rating,510 Commerce Dr,47,Barbeque
-Dim Sum Tea Shop,49,3.5 star rating,221 Pearl St,42,Dim Sum;Coffee & Tea
-Moxie’s,50,3.5 star rating,1835 Rose St,6,American (New);Tiki BarsThe Barrel Inn Bar & Grill,51,4 star rating,2005 West Ave S,5,Sports Bars;American (Traditional)
-La Crosse Family Restaurant,52,3.5 star rating,2120 Rose St,69,American (Traditional);Breakfast & Brunch
-Sushi Pirate,53,3.5 star rating,200 Main St,60,Japanese;Sushi Bars
-Sweet Lou Barbeque,54,5 star rating,,1,Barbeque;Food Trucks
-Three Rivers Lodge River View Restaurant and Bar,55,3 star rating,111 Front St S,30,Bars;American (New);Burgers
-Meringue Bakery & Cafe,56,5 star rating,313 Main St,4,Bakeries;Custom Cakes;Cafes
-Crooked Pint Ale House,57,3.5 star rating,9348 WI-16,23,Pubs;American (Traditional);Sports Bars
-North Country Steak Buffet,58,4 star rating,2526 Rose St,29,Buffets;Salad;Tacos
-Ye Old Style Inn,59,4 star rating,828 5th Ave S,5,Beer Bar;Breakfast & Brunch;Wraps
-Great Harvest Bread Company,60,4 star rating,58 Copeland Ave,9,Bakeries;SandwichesHoughton’s Jackson Street Pub,61,3.5 star rating,1002 Jackson St,32,American (Traditional);Irish Pub;Steakhouses
-Bebo’s Dogs & Beef,62,5 star rating,101 3rd St S,2,Hot Dogs
-Tom Sawyer’s Bar & Grill,63,3.5 star rating,136 Clinton St,27,Bars;Burgers;Mexican
-Shogun Sushi And Hibachi,64,3.5 star rating,1227 Crossing Meadows Dr,78,Japanese;Sushi Bars
-Schmitty’s TimeOut Tavern,65,4.5 star rating,444 N Chestnut St,7,Chicken Wings;American (Traditional);Burgers
-Pizza Ranch,66,5 star rating,3130 Chestnut Pl,3,Pizza;Chicken Shop;Buffets
-Eagle’s Nest Sports Bar & Grill,67,4 star rating,1914 Campbell Rd,16,Sports Bars;American (Traditional)
-Culina Mariana Cafe,68,4 star rating,5250 Justin Rd,3,Sandwiches;Desserts;American (Traditional)
-JavaVino,69,4 star rating,2311 State Rd,36,Wine Bars;Coffee & Tea;Breakfast & Brunch
-Ardie’s Restaurant / Flipside Pub & Grill,70,3 star rating,400 Lang Dr,31,American (Traditional);Sports Bars;PubsHuhot Mongolian Grill,71,4 star rating,,32,Chinese;Asian Fusion;Mongolian
-Famous Dave’s Bar-B-Que,72,4 star rating,3055 State Highway 16,34,Barbeque;American (Traditional);Comfort Food
-La Crosse Bierhaus,73,2.5 star rating,128 3rd St S,48,Bars;American (Traditional);Comfort Food
-Tequila Mexican Restaurant,74,3 star rating,515 West Ave N,22,Mexican
-Pizza King - La Crosse,75,4.5 star rating,2929 South Ave,19,Pizza;Italian;Greek
-Fiesta Mexicana,76,3.5 star rating,5200 Mormon Coulee Rd,22,Mexican
-Fox Hollow Sports Bar,77,4.5 star rating,N3287 County Rd OA,11,American (Traditional);Sports Bars
-The Driftless Axe,78,4.5 star rating,300 4th St S,2,Pizza;Axe Throwing;Beer Bar
-Texas Roadhouse,79,3.5 star rating,4310 State Hwy 16,49,Barbeque;Steakhouses
-Barre Country Diner,80,4.5 star rating,W4007 Country Rd 0,8,Diners;Breakfast & Brunch;PizzaBlue Moon Restaurant,81,3.5 star rating,716 2nd Ave N,60,American (Traditional);Breakfast & Brunch
-Kramer’s Bar & Grill,82,4 star rating,1123 3rd St S,8,Restaurants
-Rivoli Theatre & Pizzeria,83,4 star rating,117 4th St N,34,Cinema;Pizza
-Polito’s Pizza,84,3.5 star rating,116 3rd St S,40,Pizza
-Coney Island Hot Dogs,85,3.5 star rating,,7,Hot Dogs
-Marco’s Pizza,86,4.5 star rating,3514 Mormon Coulee Rd,8,Pizza
-Saxon Hall,87,4.5 star rating,702 Main St,7,Pizza
-Nutbush City Limits,88,3.5 star rating,3264 George St,34,Bars;Breakfast & Brunch;American (Traditional)
-Pettibone Boat Club,89,2.5 star rating,S Pettibone Dr,35,Burgers;American (Traditional);Sandwiches
-Cabin Coffee,90,4 star rating,401 Jay St,29,Coffee & Tea;SandwichesLindy’s Subs & Salads,91,3.5 star rating,221 Main St,24,Sandwiches;Salad
-Arterial,92,3.5 star rating,1003 16th St S,17,Bars;American (Traditional)
-Castaways on the Island,93,2 star rating,131 Clinton St,1,Restaurants
-Manny’s Mexican Cocina,94,3.5 star rating,301 Hampton Ct,102,Mexican
-Alpine Inn,95,3.5 star rating,W5717 Bliss Rd,21,Bars;Burgers;American (Traditional)
-The Verse Lounge & Grill,96,5 star rating,717 Rose St,1,Lounges;American (Traditional)
-El Cerrito,97,4 star rating,306 Sand Lake Rd,15,Mexican
-Midway Deli,98,4.5 star rating,N5610 County Rd Ot,13,Delis
-Bean Juice,99,4.5 star rating,1014 19th St S,14,Coffee & Tea;Sandwiches
-Heroes Bar and Grill,100,4 star rating,101 Sky Harbour Dr,4,Bars;SandwichesFish’s Bar,101,4 star rating,1452 Caledonia St,5,Dive Bars;Tacos
-Outback Steakhouse,102,3 star rating,311 Hampton Ct,41,Steakhouses
-Jersey Mike’s Subs,103,4.5 star rating,1200 County Rd Ph,8,Sandwiches;Fast Food;Delis
-Boot Hill Pub,104,3.5 star rating,1501 Saint Andrew St,8,Pubs;Burgers;Sandwiches
-China Max,105,4 star rating,Valley View Mall,6,Chinese
-Marge’s On Rose,106,3 star rating,833 Rose St,43,Breakfast & Brunch
-Great Wall,107,2.5 star rating,322 Main St,23,Chinese;Asian Fusion
-Quillin’s,108,5 star rating,24 S Walnut St,1,Grocery;Delis
+Piggy’s Restaurant,8,4 star rating,501 Front St S,131,Steakhouses;Seafood;Sandwiches
+The Crow,9,3.5 star rating,100 3rd St S,154,American (Traditional);Gastropubs
+Schuby’s Neighborhood Butcher,10,4.5 star rating,321 State St,17,Butcher;Delis;Caterers
+Digger’s Sting Restaurant,11,4 star rating,122 3rd St N,62,American (New);Steakhouses
+4 Sisters Wine Bar and Tapas,12,3.5 star rating,100 Harborview Plz,111,Wine Bars;Tapas/Small Plates;Tapas Bars
+River Rats Bar and Grill,13,4.5 star rating,1311 La Crescent Pl,28,American (New);Burgers;Cocktail Bars
+Uno Venti Pizzeria,14,4 star rating,120 King St,17,Pizza;Italian;Beer Bar
+Milwaukee Burger Company,15,3.5 star rating,3039 Medco Ct,23,Burgers;Sports Bars;Beer Bar
+Le Chateau,16,4.5 star rating,410 Cass St,51,French;Wine Bars;Cocktail Bars
+Burritos House,17,4.5 star rating,1205 La Crosse St,30,Mexican
+Señor Villa,18,4 star rating,325 West Ave N,69,Mexican
+Red Pines Bar & Grill,19,4.5 star rating,W7305 County Rd Z,88,American (Traditional);Seafood
+Iguana’s Mexican Street Café,20,4 star rating,1800 State St,71,Mexican
+Hmong’s Golden Egg Roll,21,4 star rating,901 State St,69,Laotian;Vietnamese;Thai
+Five Star Eggrolls,22,3.5 star rating,1203 La Crosse St,9,Thai;Laotian;Chinese
+Hungry Peddler,23,4 star rating,3429 Mormon Coulee Rd,64,American (Traditional);Steakhouses;Seafood
+Ciatti’s Italian Grill,24,4.5 star rating,2846 Midwest Dr,51,Seafood;Steakhouses;Italian
+Recovery Room,25,3.5 star rating,901 7th St S,14,Sports Bars;American (Traditional)
+Pickerman’s Soup & Sandwiches,26,4.5 star rating,327 Jay St,57,Sandwiches;Soup
+Huck Finn’s On the Water,27,3.5 star rating,129 Marina Dr,53,American (Traditional);Music Venues;Chicken Wings
+Rudy’s Drive-In,28,4 star rating,1004 La Crosse St,44,American (New)
+Big Mama’s Gyros,29,5 star rating,Dave's Guitar Shop Parking Lot,9,Greek;Street Vendors
+Greengrass Cafe,30,4 star rating,1904 Campbell Rd,96,Breakfast & Brunch;Bars
+Schmidty’s Bar & Restaurant,31,4 star rating,3119 State Rd,19,American (Traditional)
+The Root Note,32,4.5 star rating,115 4th St S,80,Music Venues;Coffee & Tea;Creperies
+Timmers 10 Mile Pub,33,4.5 star rating,W4516 Eddie Ave,12,Pubs;American (Traditional)
+Big Al’s Pizza,34,3.5 star rating,115 3rd St,70,Pizza
+People’s Food Co-op,35,4.5 star rating,315 5th Ave S,31,Grocery;Delis
+New Taste of India,36,4 star rating,1812 Jackson St,110,Indian
+Pogreba Restaurant,37,4 star rating,1232 Avon St,48,American (Traditional);Seafood;Steakhouses
+Uptowne Cafe & Bakery,38,4 star rating,1217 Caledonia St,45,Bakeries;Cafes;Breakfast & Brunch
+Il Luigi Italian Cuisine,39,4.5 star rating,235 Sand Lake Rd,3,Italian;Wine Bars
+David Reay’s Modern Diner + Tavern,40,3.5 star rating,214 Main St,96,Diners;Bars
+Rosie’s Cafe,41,4.5 star rating,2225 16th St S,56,Diners;Cafes;American (Traditional)
+Fayze’s,42,3.5 star rating,135 S 4th St,129,Bakeries;American (Traditional);Pubs
+Taste of Thai,43,4.5 star rating,205 S Holmen Dr,40,Thai
+Big Boar Barbecue & Catering,44,4.5 star rating,510 Commerce Dr,47,Barbeque
+Sweet Lou Barbeque,45,5 star rating,,1,Barbeque;Food Trucks
+Kaddy’s Kafe,46,4.5 star rating,236 E Main St,25,Breakfast & Brunch;Cafes
+Sushi Pirate,47,3.5 star rating,200 Main St,60,Japanese;Sushi Bars
+Moxie’s,48,3.5 star rating,1835 Rose St,6,American (New);Tiki Bars
+Pizza Ranch,49,5 star rating,3130 Chestnut Pl,3,Pizza;Chicken Shop;Buffets
+North Country Steak Buffet,50,4 star rating,2526 Rose St,29,Buffets;Salad;Tacos
+The Barrel Inn Bar & Grill,51,4 star rating,2005 West Ave S,5,Sports Bars;American (Traditional)
+Press Break,52,4.5 star rating,146 Rose St,14,Sandwiches;Hot Dogs;Breakfast & Brunch
+Shogun Sushi And Hibachi,53,3.5 star rating,1227 Crossing Meadows Dr,78,Japanese;Sushi Bars
+Schmitty’s TimeOut Tavern,54,4.5 star rating,444 N Chestnut St,7,Chicken Wings;American (Traditional);Burgers
+Crooked Pint Ale House,55,3.5 star rating,9348 WI-16,23,Pubs;American (Traditional);Sports Bars
+The Breakfast Club and Pub,56,3.5 star rating,214 Main St,110,American (Traditional);Breakfast & Brunch;Pubs
+Meringue Bakery & Cafe,57,5 star rating,313 Main St,4,Bakeries;Custom Cakes;Cafes
+Bebo’s Dogs & Beef,58,5 star rating,101 3rd St S,2,Hot Dogs
+Famous Dave’s Bar-B-Que,59,4 star rating,3055 State Highway 16,34,Barbeque;American (Traditional);Comfort Food
+Fiesta Mexicana,60,3.5 star rating,5200 Mormon Coulee Rd,22,Mexican
+Houghton’s Jackson Street Pub,61,3.5 star rating,1002 Jackson St,32,American (Traditional);Irish Pub;Steakhouses
+Dim Sum Tea Shop,62,3.5 star rating,221 Pearl St,42,Dim Sum;Coffee & Tea
+Ye Old Style Inn,63,4 star rating,828 5th Ave S,5,Beer Bar;Breakfast & Brunch;Wraps
+Texas Roadhouse,64,3.5 star rating,4310 State Hwy 16,49,Barbeque;Steakhouses
+Huhot Mongolian Grill,65,4 star rating,,32,Chinese;Asian Fusion;Mongolian
+La Crosse Bierhaus,66,2.5 star rating,128 3rd St S,48,Bars;American (Traditional);Comfort Food
+Pizza King - La Crosse,67,4.5 star rating,2929 South Ave,19,Pizza;Italian;Greek
+Eagle’s Nest Sports Bar & Grill,68,4 star rating,1914 Campbell Rd,16,Sports Bars;American (Traditional)
+Three Rivers Lodge River View Restaurant and Bar,69,3 star rating,111 Front St S,30,Bars;American (New);Burgers
+Free Range Exchange,70,5 star rating,46 Main St,5,Breakfast & Brunch;Sandwiches;Coffee & Tea
+Tequila Mexican Restaurant,71,3 star rating,515 West Ave N,22,Mexican
+Manny’s Mexican Cocina,72,3.5 star rating,301 Hampton Ct,102,Mexican
+Ardie’s Restaurant / Flipside Pub & Grill,73,3 star rating,400 Lang Dr,31,American (Traditional);Sports Bars;Pubs
+The Driftless Axe,74,4.5 star rating,300 4th St S,2,Pizza;Axe Throwing;Beer Bar
+Fox Hollow Sports Bar,75,4.5 star rating,N3287 County Rd OA,11,American (Traditional);Sports Bars
+La Crosse Family Restaurant,76,3.5 star rating,2120 Rose St,69,American (Traditional);Breakfast & Brunch
+Rivoli Theatre & Pizzeria,77,4 star rating,117 4th St N,34,Cinema;Pizza
+Saxon Hall,78,4.5 star rating,702 Main St,7,Pizza
+Tom Sawyer’s Bar & Grill,79,3.5 star rating,136 Clinton St,27,Bars;Burgers;Mexican
+Barre Country Diner,80,4.5 star rating,W4007 Country Rd 0,8,Diners;Breakfast & Brunch;Pizza
+Great Harvest Bread Company,81,4 star rating,58 Copeland Ave,9,Bakeries;Sandwiches
+Polito’s Pizza,82,3.5 star rating,116 3rd St S,40,Pizza
+Outback Steakhouse,83,3 star rating,311 Hampton Ct,41,Steakhouses
+Culina Mariana Cafe,84,4 star rating,5250 Justin Rd,3,Sandwiches;Desserts;American (Traditional)
+Marco’s Pizza,85,4.5 star rating,3514 Mormon Coulee Rd,8,Pizza
+Kramer’s Bar & Grill,86,4 star rating,1123 3rd St S,8,Restaurants
+JavaVino,87,4 star rating,2311 State Rd,36,Wine Bars;Coffee & Tea;Breakfast & Brunch
+Angelini’s Ristorante,88,3 star rating,1427 State Hwy 35,42,Italian;Pizza
+Blue Moon Restaurant,89,3.5 star rating,716 2nd Ave N,60,American (Traditional);Breakfast & Brunch
+Arterial,90,3.5 star rating,1003 16th St S,17,Bars;American (Traditional)
+Pettibone Boat Club,91,2.5 star rating,S Pettibone Dr,35,Burgers;American (Traditional);Sandwiches
+Castaways on the Island,92,2 star rating,131 Clinton St,1,Restaurants
+Alpine Inn,93,3.5 star rating,W5717 Bliss Rd,21,Bars;Burgers;American (Traditional)
+Hunan Chinese Restaurant & Lounge,94,2.5 star rating,318 4th St S,30,Chinese
+Fish’s Bar,95,4 star rating,1452 Caledonia St,5,Dive Bars;Tacos
+El Cerrito,96,4 star rating,306 Sand Lake Rd,15,Mexican
+Coney Island Hot Dogs,97,3.5 star rating,,7,Hot Dogs
+The Ridge,98,3.5 star rating,W2782 State Rd 33,6,Bars;American (Traditional)
+Nutbush City Limits,99,3.5 star rating,3264 George St,34,Bars;Breakfast & Brunch;American (Traditional)
+The Verse Lounge & Grill,100,5 star rating,717 Rose St,1,Lounges;American (Traditional)
+Great Wall,101,2.5 star rating,322 Main St,23,Chinese;Asian Fusion
+Olive Garden Italian Restaurant,102,3.5 star rating,9413 State Rd 16,50,Italian;Salad;Soup
+China Max,103,4 star rating,Valley View Mall,6,Chinese
+Midway Deli,104,4.5 star rating,N5610 County Rd Ot,13,Delis
+Quillin’s,105,5 star rating,24 S Walnut St,1,Grocery;Delis
+Al’s State Road Pizzeria,106,3.5 star rating,2242 State Rd,11,Pizza
+China Star,107,2.5 star rating,4202 Mormon Coulee Rd,30,Chinese
+Heroes Bar and Grill,108,4 star rating,101 Sky Harbour Dr,4,Bars;Sandwiches
 Las Margaritas,109,3 star rating,115 5th Ave S,4,Mexican;Salad;Beer Bar
-Pappi’s Taqueria y Mas,110,4 star rating,83 Buol Rd,2,Food Trucks;MexicanQDOBA Mexican Eats,111,4 star rating,127 S 3rd St,15,Mexican;Fast Food
-River Rocks Coffee,112,4 star rating,332 Front St S,5,Coffee & Tea;Breakfast & Brunch;Bagels
-Olive Garden Italian Restaurant,113,3.5 star rating,9413 State Rd 16,50,Italian;Salad;Soup
-Hunan Chinese Restaurant & Lounge,114,2.5 star rating,318 4th St S,30,Chinese
-China Star,115,2.5 star rating,4202 Mormon Coulee Rd,30,Chinese
-Subway,116,4 star rating,1200 La Crosse St,2,Sandwiches
-The Ridge,117,3.5 star rating,W2782 State Rd 33,6,Bars;American (Traditional)
-Al’s State Road Pizzeria,118,3.5 star rating,2242 State Rd,11,Pizza
-Super Buffet,119,2 star rating,206 Copeland Ave,15,Chinese;Buffets
-Golden China,120,3.5 star rating,920 W City Hwy 16,7,ChineseFox Hollow Golf Course,121,4.5 star rating,N3287 County Trunk OA,8,Golf;Burgers;Venues & Event Spaces
-Angry’s Way Out,122,5 star rating,N5914 County Rd Zz,1,Bars;American (Traditional);Chicken Wings
-Sloopy’s Alma Mater,123,3 star rating,163 Copeland Ave,9,Chicken Wings;Pizza;Sandwiches
-Lindy’s Subs & Salads,124,4 star rating,225 Sand Lake Rd,15,Salad;Fruits & Veggies
-Angelini’s Ristorante,125,3 star rating,1427 State Hwy 35,42,Italian;Pizza
-Panera Bread,126,3 star rating,,32,Sandwiches;Salad;Soup
-King Street Kitchen,127,3.5 star rating,141 S 7th St,10,American (Traditional);Breakfast & Brunch;Venues & Event Spaces
-B.A. Burrito,128,3 star rating,40 Copeland Ave,38,Tex-Mex;Mexican
-Pla-Mor Lanes and The Eleventh Frame Diner,129,5 star rating,807 4th St S,6,Bowling;Pizza;American (Traditional)
-Dewey’s Side Street Saloon,130,3 star rating,621 Saint Paul St,2,Bars;American (Traditional);Music VenuesNoodles & Company,131,1.5 star rating,9417 State Road-16,4,Salad;Soup;Noodles
-T-Jo’s Pizza,132,3.5 star rating,1717 George St,20,Pizza;Sandwiches;Tacos
-Union Market,133,4 star rating,400 7th St N,1,Restaurants
-Coney Island,134,3 star rating,114 4th St S,8,Hot Dogs;Burgers
-Burrachos Fresh Mexican Grill,135,3.5 star rating,9432 State Rd 16,27,Mexican
-China Buffet,136,2.5 star rating,1611 Losey Blvd S,17,Chinese
-Red Lobster,137,3 star rating,3333 State Road 16,20,Seafood;American (Traditional)
-Culver’s,138,3.5 star rating,4101 Mormon Coulee Rd,11,Burgers;Ice Cream & Frozen Yogurt;Fast Food
-Arrowhead Tap House,139,3 star rating,,2,American (Traditional)
-Jimmy John’s,140,3 star rating,312 Pearl St,18,Sandwiches;Delis;Fast FoodCreekSide Grill and Pub,141,2 star rating,W5450 Keil Coulee Rd,9,Pubs;American (Traditional);Italian
-Mary Cody’s Restaurant and Maggie’s Lounge,142,3.5 star rating,205 Main St,19,American (New);Breakfast & Brunch;Coffee & Tea
-HuHot Mongolian Grill,143,,3800 WI-16,,Restaurants
-Kobe Japan,144,,3800 State Road 16,,Chinese;Food Delivery Services;Japanese
-Domino’s Pizza,145,4.5 star rating,2402 State Rd,4,Pizza;Chicken Wings;Sandwiches
-Westview Inn,146,4 star rating,174 Leonard St S,10,American (New)
-Taco Bell,147,3 star rating,315 West Avenue North,10,Mexican;Fast Food
-Features Sports Bar & Grill,148,3 star rating,1425 State Hwy 16,21,Bowling;Sports Bars;Burgers
-The Pizza Oven,149,4.5 star rating,920 W Hwy 16,5,Pizza
-Copper Penny,150,3.5 star rating,200 Main St,2,RestaurantsMexican Tamales Restaurant,151,2.5 star rating,306 Sand Lake Rd,12,Mexican
-China Inn,152,2.5 star rating,9348 State Rd 16,16,Chinese
-Big Al’s Too,153,4 star rating,103 10th Ave S,5,Pizza
+Pappi’s Taqueria y Mas,110,4 star rating,83 Buol Rd,2,Food Trucks;Mexican
+Angry’s Way Out,111,5 star rating,N5914 County Rd Zz,1,Bars;American (Traditional);Chicken Wings
+Fox Hollow Golf Course,112,4.5 star rating,N3287 County Trunk OA,8,Golf;Burgers;Venues & Event Spaces
+QDOBA Mexican Eats,113,4 star rating,127 S 3rd St,15,Mexican;Fast Food
+Sloopy’s Alma Mater,114,3 star rating,163 Copeland Ave,9,Chicken Wings;Pizza;Sandwiches
+Golden China,115,3.5 star rating,920 W City Hwy 16,7,Chinese
+Super Buffet,116,2 star rating,206 Copeland Ave,15,Chinese;Buffets
+Pla-Mor Lanes and The Eleventh Frame Diner,117,5 star rating,807 4th St S,6,Bowling;Pizza;American (Traditional)
+Lindy’s Subs & Salads,118,3.5 star rating,221 Main St,24,Sandwiches;Salad
+Boot Hill Pub,119,3.5 star rating,1501 Saint Andrew St,8,Pubs;Burgers;Sandwiches
+Jersey Mike’s Subs,120,4.5 star rating,1200 County Rd Ph,8,Sandwiches;Fast Food;Delis
+Red Lobster,121,3 star rating,3333 State Road 16,20,Seafood;American (Traditional)
+Noodles & Company,122,1.5 star rating,9417 State Road-16,4,Salad;Soup;Noodles
+Bean Juice,123,4.5 star rating,1014 19th St S,14,Coffee & Tea;Sandwiches
+Dewey’s Side Street Saloon,124,3 star rating,621 Saint Paul St,2,Bars;American (Traditional);Music Venues
+T-Jo’s Pizza,125,3.5 star rating,1717 George St,20,Pizza;Sandwiches;Tacos
+River Rocks Coffee,126,4 star rating,332 Front St S,5,Coffee & Tea;Breakfast & Brunch;Bagels
+B.A. Burrito,127,3 star rating,40 Copeland Ave,38,Tex-Mex;Mexican
+Marge’s On Rose,128,3 star rating,833 Rose St,43,Breakfast & Brunch
+Union Market,129,4 star rating,400 7th St N,1,Restaurants
+Subway,130,4 star rating,1200 La Crosse St,2,Sandwiches
+Cabin Coffee,131,4 star rating,401 Jay St,29,Coffee & Tea;Sandwiches
+China Buffet,132,2.5 star rating,1611 Losey Blvd S,17,Chinese
+Big Al’s Too,133,4 star rating,103 10th Ave S,5,Pizza
+Burrachos Fresh Mexican Grill,134,3.5 star rating,9432 State Rd 16,27,Mexican
+The Pizza Oven,135,4.5 star rating,920 W Hwy 16,5,Pizza
+Lindy’s Subs & Salads,136,4 star rating,225 Sand Lake Rd,15,Salad;Fruits & Veggies
+Coney Island,137,3 star rating,114 4th St S,8,Hot Dogs;Burgers
+Mary Cody’s Restaurant and Maggie’s Lounge,138,3.5 star rating,205 Main St,19,American (New);Breakfast & Brunch;Coffee & Tea
+CreekSide Grill and Pub,139,2 star rating,W5450 Keil Coulee Rd,9,Pubs;American (Traditional);Italian
+Features Sports Bar & Grill,140,3 star rating,1425 State Hwy 16,21,Bowling;Sports Bars;Burgers
+Copper Penny,141,3.5 star rating,200 Main St,2,Restaurants
+Westview Inn,142,4 star rating,174 Leonard St S,10,American (New)
+Domino’s Pizza,143,4.5 star rating,2402 State Rd,4,Pizza;Chicken Wings;Sandwiches
+Arrowhead Tap House,144,3 star rating,,2,American (Traditional)
+Kobe Japan,145,,3800 State Road 16,,Chinese;Food Delivery Services;Japanese
+HuHot Mongolian Grill,146,,3800 WI-16,,Restaurants
+King Street Kitchen,147,3.5 star rating,141 S 7th St,10,American (Traditional);Breakfast & Brunch;Venues & Event Spaces
+Papa Murphy’s,148,5 star rating,1820 Jackson Street,1,Pizza
+Culver’s,149,3.5 star rating,4101 Mormon Coulee Rd,11,Burgers;Ice Cream & Frozen Yogurt;Fast Food
+Mexican Tamales Restaurant,150,2.5 star rating,306 Sand Lake Rd,12,Mexican
+Buffalo Wild Wings,151,2.5 star rating,3132 Market Pl,53,Chicken Wings;American (Traditional);Sports Bars
+Jimmy John’s,152,3 star rating,312 Pearl St,18,Sandwiches;Delis;Fast Food
+T Jo’s Pizza & Sandwich Shop,153,4.5 star rating,105 State St,6,Pizza
 Super Buffet Chinese Restaurant,154,1 star rating,9348 Highway 16,3,Chinese
-Papa Murphy’s,155,5 star rating,1820 Jackson Street,1,Pizza
-Toppers Pizza,156,2.5 star rating,325 West Ave N,11,Pizza
-Buffalo Wild Wings,157,2.5 star rating,3132 Market Pl,53,Chicken Wings;American (Traditional);Sports Bars
-McDonald’s,158,4.5 star rating,2437 W George St,3,Coffee & Tea;Burgers;Fast Food
-Applebee’s Grill + Bar,159,2 star rating,9364 Highway 16,34,Sports Bars;Burgers;American (Traditional)
-Culver’s,160,4.5 star rating,835 Oak Ave S,3,Burgers;Ice Cream & Frozen Yogurt;Fast FoodFazoli’s,161,3.5 star rating,9370 Hwy 16,16,Italian
-Caribou Coffee,162,4 star rating,1202 County Rd Ph,16,Bakeries;Coffee & Tea;Sandwiches
-Rocky Rococo Pan Style Pizza,163,2.5 star rating,40 Copeland Ave,9,Pizza;Italian
-Taco John’s,164,3 star rating,602 Monitor St,5,Fast Food;Mexican
-American Legion Post 336,165,5 star rating,731 Sand Lake Rd,2,Venues & Event Spaces;American (Traditional);Sports Bars
-A&W Restaurant,166,2.5 star rating,3005 S Ave,13,Fast Food;Burgers;Hot Dogs
-Pizza Corral,167,4 star rating,1505 S Holmen Dr,26,Pizza
+Rocky Rococo Pan Style Pizza,155,2.5 star rating,40 Copeland Ave,9,Pizza;Italian
+Applebee’s Grill + Bar,156,2 star rating,9364 Highway 16,34,Sports Bars;Burgers;American (Traditional)
+China Inn,157,2.5 star rating,9348 State Rd 16,16,Chinese
+Toppers Pizza,158,2.5 star rating,325 West Ave N,11,Pizza
+American Legion Post 336,159,5 star rating,731 Sand Lake Rd,2,Venues & Event Spaces;American (Traditional);Sports Bars
+Taco Bell,160,3 star rating,315 West Avenue North,10,Mexican;Fast Food
+Pizza Corral,161,4 star rating,1505 S Holmen Dr,26,Pizza
+Panera Bread,162,3 star rating,,32,Sandwiches;Salad;Soup
+Marco’s Pizza,163,3.5 star rating,988 12th Ave S,9,Pizza
+Coronas Cantina Grill Mexican Restaurant,164,2 star rating,920 W City Hwy 16,2,Cocktail Bars;Mexican;Seafood
+Fazoli’s,165,3.5 star rating,9370 Hwy 16,16,Italian
+Hunter’s Last Chance,166,4.5 star rating,150 S Leonard St,4,Sports Bars;Burgers;Pizza
+Culver’s,167,4.5 star rating,835 Oak Ave S,3,Burgers;Ice Cream & Frozen Yogurt;Fast Food
 Coney Island Hot Dogs,168,3 star rating,3800 Hwy 16,7,Hot Dogs
-T Jo’s Pizza & Sandwich Shop,169,4.5 star rating,105 State St,6,Pizza
-Coronas Cantina Grill Mexican Restaurant,170,2 star rating,920 W City Hwy 16,2,Cocktail Bars;Mexican;SeafoodThe MOB Stop,171,3 star rating,208 S Holmen Dr,6,Hot Dogs;Food Stands
-KFC,172,3.5 star rating,2001 Rose St,3,Fast Food;Chicken Wings;Chicken Shop
-Jacqlons Cafe,173,3 star rating,512 S Main St,8,Cafes
-Marco’s Pizza,174,3.5 star rating,988 12th Ave S,9,Pizza
-Maggie’s On Main,175,2.5 star rating,205 Main St,14,Breakfast & Brunch
-Hunter’s Last Chance,176,4.5 star rating,150 S Leonard St,4,Sports Bars;Burgers;Pizza
-Subway,177,3 star rating,1549 Rose St,1,Sandwiches
-Chateau La Crosse,178,,410 Cass St,,Hotels;Bed & Breakfast;Restaurants
-Ringside,179,3 star rating,223 Pearl St,1,American (New)
-Ralph’s Restaurant,180,,109 3rd St N,,RestaurantsPizza Villa West Salem,181,4.5 star rating,156 Leonard St S,3,Pizza
-Little Caesars Pizza,182,2.5 star rating,1022 La Crosse St,5,Italian;Pizza
-Culver’s,183,4 star rating,9422 State Rd 16,6,Burgers;Fast Food;Ice Cream & Frozen Yogurt
-Perkins Restaurant & Bakery,184,3 star rating,9428 Highway 16,25,Bakeries;Breakfast & Brunch;American (Traditional)
-Corky’s Pizza,185,3 star rating,25 S Walnut St,11,Pizza;Ice Cream & Frozen Yogurt;Burgers
-Gino’s,186,3 star rating,306 Sand Lake Rd,2,Hot Dogs
-Tequila’s Restaurant,187,2.5 star rating,425 2nd Ave S,11,Mexican
+Taco John’s,169,3 star rating,602 Monitor St,5,Fast Food;Mexican
+McDonald’s,170,4.5 star rating,2437 W George St,3,Coffee & Tea;Burgers;Fast Food
+Pizza Villa West Salem,171,4.5 star rating,156 Leonard St S,3,Pizza
+Jacqlons Cafe,172,3 star rating,512 S Main St,8,Cafes
+The MOB Stop,173,3 star rating,208 S Holmen Dr,6,Hot Dogs;Food Stands
+Ringside,174,3 star rating,223 Pearl St,1,American (New)
+A&W Restaurant,175,2.5 star rating,3005 S Ave,13,Fast Food;Burgers;Hot Dogs
+Maggie’s On Main,176,2.5 star rating,205 Main St,14,Breakfast & Brunch
+South Lanes Pizza,177,2.5 star rating,4107 Mormon Coulee Rd,5,Pizza;Bowling;Bars
+Corky’s Pizza,178,3 star rating,25 S Walnut St,11,Pizza;Ice Cream & Frozen Yogurt;Burgers
+Little Caesars Pizza,179,2.5 star rating,1022 La Crosse St,5,Italian;Pizza
+KFC,180,3.5 star rating,2001 Rose St,3,Fast Food;Chicken Wings;Chicken Shop
+Tequila’s Restaurant,181,2.5 star rating,425 2nd Ave S,11,Mexican
+Gino’s,182,3 star rating,306 Sand Lake Rd,2,Hot Dogs
+Chuck E. Cheese,183,3 star rating,4444 State Rd 16,5,Pizza;Arcades;Kids Activities
+Caribou Coffee,184,4 star rating,1202 County Rd Ph,16,Bakeries;Coffee & Tea;Sandwiches
+Chateau La Crosse,185,,410 Cass St,,Hotels;Bed & Breakfast;Restaurants
+Ralph’s Restaurant,186,,109 3rd St N,,Restaurants
+Subway,187,3 star rating,1549 Rose St,1,Sandwiches
 K & H Cafe,188,,1124 Gillette St,,American (New)
-South Lanes Pizza,189,2.5 star rating,4107 Mormon Coulee Rd,5,Pizza;Bowling;Bars
-Hardee’s,190,2 star rating,1311 Rose St,11,Fast Food;BurgersHardee’s,191,1 star rating,2505 State Rd,2,Fast Food;Burgers
-Burger King,192,1.5 star rating,1124 George St W,3,Burgers
-Neuie’s Vogue Bar and Grill,193,,1820 George St,,American (Traditional);Sports Bars
-Taco John’s,194,2.5 star rating,1211 Jackson St,10,Mexican;Fast Food
-Jimmy John’s,195,2.5 star rating,1420 Losey Blvd,7,Delis;Sandwiches;Fast Food
-Chuck E. Cheese,196,3 star rating,4444 State Rd 16,5,Pizza;Arcades;Kids Activities
-Coney Island Village,197,,2428 State Rd,,Hot Dogs;Soup;Fast Food
-Cafe Lola,198,,200 Main St,,French;Asian Fusion
-McDonald’s,199,2 star rating,2810 Losey Blvd S,6,Fast Food;Burgers;Coffee & Tea
-American Legion Clubroom,200,2.5 star rating,509 N Chestnut St,3,RestaurantsPizza Hut,201,2.5 star rating,2212 Rose St,8,Pizza;Italian;Chicken Wings
-Rocky Rococo Pan Style Pizza,202,2.5 star rating,1239 Crossing Meadows Dr,11,Pizza;Italian
-Pettibone Bar & Grill,203,,Under Cass St Bridge,,American (Traditional)
-Burger King,204,1 star rating,3519 Mormon Coulee Rd,5,Burgers;Fast Food
-Hong Kong Restaurant,205,,322 Main St,,Chinese
+Culver’s,189,4 star rating,9422 State Rd 16,6,Burgers;Fast Food;Ice Cream & Frozen Yogurt
+Burger King,190,1.5 star rating,1124 George St W,3,Burgers
+Rocky Rococo Pan Style Pizza,191,2.5 star rating,1239 Crossing Meadows Dr,11,Pizza;Italian
+Pizza Hut,192,2.5 star rating,2212 Rose St,8,Pizza;Italian;Chicken Wings
+Hardee’s,193,1 star rating,2505 State Rd,2,Fast Food;Burgers
+American Legion Clubroom,194,2.5 star rating,509 N Chestnut St,3,Restaurants
+Perkins Restaurant & Bakery,195,3 star rating,9428 Highway 16,25,Bakeries;Breakfast & Brunch;American (Traditional)
+Neuie’s Vogue Bar and Grill,196,,1820 George St,,American (Traditional);Sports Bars
+Taco John’s,197,2.5 star rating,1211 Jackson St,10,Mexican;Fast Food
+Hardee’s,198,2 star rating,1311 Rose St,11,Fast Food;Burgers
+Cafe Lola,199,,200 Main St,,French;Asian Fusion
+Jimmy John’s,200,2.5 star rating,1420 Losey Blvd,7,Delis;Sandwiches;Fast Food
+Coney Island Village,201,,2428 State Rd,,Hot Dogs;Soup;Fast Food
+Toppers Pizza,202,2.5 star rating,605 2nd Ave S,6,Pizza
+Hong Kong Restaurant,203,,322 Main St,,Chinese
+Pettibone Bar & Grill,204,,Under Cass St Bridge,,American (Traditional)
+Happy Joe’s Pizza & Ice Cream Parlor,205,,327 Division St,,Italian;Pizza
 Adam’s Rib & Steak House,206,,101 Sky Harbour Dr,,Hotels;Restaurants
 Coulee Bar and Grill,207,,W4516 Eddie Ave,,American (Traditional)
-Burger King,208,1 star rating,515 N Fourth St,2,Burgers;Fast Food
-Dairy Queen Grill & Chill,209,2.5 star rating,4200 Mormon Coulee Rd,6,Fast Food;Ice Cream & Frozen Yogurt;Burgers
-Taco Bell,210,1 star rating,4141 Mormon Coulee Ct,14,Mexican;Fast FoodToppers Pizza,211,2.5 star rating,605 2nd Ave S,6,Pizza
-Arby’s,212,2.5 star rating,3210 N Kinney Coulee Rd,5,Fast Food;Sandwiches
-Subway,213,3.5 star rating,9360 State Rd,4,Sandwiches
-Olympic Family Restaurant,214,,,,Restaurants
-Happy Joe’s Pizza & Ice Cream Parlor,215,,327 Division St,,Italian;Pizza
+Dairy Queen Grill & Chill,208,2.5 star rating,4200 Mormon Coulee Rd,6,Fast Food;Ice Cream & Frozen Yogurt;Burgers
+McDonald’s,209,2 star rating,2810 Losey Blvd S,6,Fast Food;Burgers;Coffee & Tea
+Taco Bell,210,1 star rating,4141 Mormon Coulee Ct,14,Mexican;Fast Food
+Pizza Hut,211,,4252 Mormon Coulee Rd,,Pizza
+Burger King,212,1 star rating,515 N Fourth St,2,Burgers;Fast Food
+Olympic Family Restaurant,213,,,,Restaurants
+Burger King,214,1 star rating,3519 Mormon Coulee Rd,5,Burgers;Fast Food
+Padrino’s Pizza,215,,327 Division St,,Restaurants
 Wendy’s,216,2 star rating,4422 Mormon Coulee Road,6,Fast Food;Burgers
-Padrino’s Pizza,217,,327 Division St,,Restaurants
+Joe’s Bar & Grill At Days Inn,217,1 star rating,101 Sky Harbour Dr,1,Bars;American (Traditional)
 RR Restaurant,218,,328 Front St S,,Restaurants
-Pizza Hut,219,,4252 Mormon Coulee Rd,,Pizza
-Joe’s Bar & Grill At Days Inn,220,1 star rating,101 Sky Harbour Dr,1,Bars;American (Traditional)Frenchtastic Bakery,221,,1125 Main St,,Bakeries;Sandwiches
-Hillbilly’s Bar & Grill,222,,132 La Crescent St,,Bars;Restaurants
-The Bistro,223,2 star rating,500 Front St,3,American (Traditional)
-KFC,224,1 star rating,3415 Fiesta Ct,3,Chicken Wings;Fast Food;Chicken Shop
-Flamers Grill,225,,3800 State Rd 16,,Burgers
+Subway,219,3.5 star rating,9360 State Rd,4,Sandwiches
+Arby’s,220,2.5 star rating,3210 N Kinney Coulee Rd,5,Fast Food;Sandwiches
+Hillbilly’s Bar & Grill,221,,132 La Crescent St,,Bars;Restaurants
+Truckers Inn Restaurant,222,2 star rating,I 90 & County 12,1,Restaurants
+Flamers Grill,223,,3800 State Rd 16,,Burgers
+The Bistro,224,2 star rating,500 Front St,3,American (Traditional)
+KFC,225,1 star rating,3415 Fiesta Ct,3,Chicken Wings;Fast Food;Chicken Shop
 Taco Bell,226,2.5 star rating,1243 Crossing Meadows Rd,3,Fast Food;Mexican
-Subway,227,1.5 star rating,101 Kistler Dr,2,Sandwiches
-Subway,228,1 star rating,3810 Mormon Coulee Rd,1,Sandwiches
-Truckers Inn Restaurant,229,2 star rating,I 90 & County 12,1,Restaurants
-Norijapan,230,,3800 State Road 16,,RestaurantsDomino’s Pizza,231,3.5 star rating,224 Sand Lake Rd,8,Pizza;Chicken Wings;Sandwiches
-Hong Kong Restaurant,232,,9374 State Rd 16,,Chinese;Asian Fusion
-Shepherd’s Voice Cafe,233,,110 Crossroads Ctr,,Restaurants
-Main Street Saloon,234,,56 Main St,,Bars;American (Traditional)
-Dairy Queen Grill & Chill,235,2 star rating,810 2nd Ave S,15,Ice Cream & Frozen Yogurt;Fast Food;Burgers
-Jimmy John’s,236,3 star rating,9432 Hwy 16,9,Sandwiches;Delis;Fast Food
-Linda’s Cafe,237,,County Highway O,,Cafes
-Wendy’s,238,2 star rating,9346 State Road 16,6,Burgers;Fast Food
-Subway,239,,2400 State Rd,,Sandwiches
-Hearty Platter Cafe,240,2.5 star rating,42165 County Rd 12,4,Cafes;Travel Services
+Domino’s Pizza,227,3.5 star rating,224 Sand Lake Rd,8,Pizza;Chicken Wings;Sandwiches
+Hong Kong Restaurant,228,,9374 State Rd 16,,Chinese;Asian Fusion
+Norijapan,229,,3800 State Road 16,,Restaurants
+Shepherd’s Voice Cafe,230,,110 Crossroads Ctr,,Restaurants
+Frenchtastic Bakery,231,,1125 Main St,,Bakeries;Sandwiches
+Linda’s Cafe,232,,County Highway O,,Cafes
+Hearty Platter Cafe,233,2.5 star rating,42165 County Rd 12,4,Cafes;Travel Services
+Wendy’s,234,2 star rating,9346 State Road 16,6,Burgers;Fast Food
+Subway,235,1.5 star rating,101 Kistler Dr,2,Sandwiches
+Subway,236,1 star rating,3810 Mormon Coulee Rd,1,Sandwiches
+Main Street Saloon,237,,56 Main St,,Bars;American (Traditional)
+Dairy Queen Grill & Chill,238,2 star rating,810 2nd Ave S,15,Ice Cream & Frozen Yogurt;Fast Food;Burgers
+Jimmy John’s,239,3 star rating,9432 Hwy 16,9,Sandwiches;Delis;Fast Food
+Papa Murphy’s,240,2.5 star rating,1220 Crossing Meadows Drive,6,Pizza
